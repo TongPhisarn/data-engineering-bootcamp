@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dataengineerbootcamp-385813",
+  "private_key_id": "ee4769c0b9c28b6f44bf98b9f8a7ac92eb61158f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyFSVeSEcIyw0S\nIgIy7lMLySzxMHGct86vBEorymITqvkabwP8YXKWvnkzuEAdb33x+vPSF8320fJl\nCvbNeFql2O5pRlNJisJ45C1KjsyPvcrN5P+lfSq0p6XLL9IgsJS3PwK7kdwQeBJM\nYhrhD0jOTd4kKLoNdJf4jbQS8wKleleExMNNKUD6ny69PX+5gtu6Gl7jBD2/+5FE\nBMyunwlfrAApEE4M1GpyqHci2oa3IXOEyViQCdB2w1SElnW6aIwaNJTBWkM8Ivwd\ntyFYCnx9qI7y77KdUGyQbBpYDpfS3mdhcWZqZCVRTkh0/tMfu0V5gxnQwkKsjAbP\nN3o5W4VVAgMBAAECggEAL6Z42UF9wFyUosV20Sn0DrNF00OjIswMAcikEBOXKqwU\n+325E07/2lYdGDm07itnB9ieZRj5g5Gpyl+kqlYJ61agdIrcvlDiuHZVqB2Nnuip\n223q+d0EEFLLihLBpv2YzW+Oy6G7wKxgORAHITF1yb4MMqCzJ+aKw3cnN+rOSnh+\n6iP7I6+NXYV+buyoFIy2q6/+HjuVZfFhzGtbVlU/6k5DQ2qzZvgnjP+BqDC1OD4D\nGJvWVrfyRWZQBjiY8LaRK2nrh4vJwJpH24CknReUJ7hlnHwe7BZ6lk/bJspZAep9\n3EzcTA8ZX1V/YSvZhzWAheuhJHVZwttixaAmukUmAQKBgQDvwM1EOBasdWtcqr3/\nKvjTxjo6jzmfe9EuuUREkscCBzdVNQSwU+w5hkQy4tV1BtaoilYX/h5Vw+gcdnks\nNKDZbvbycB/8cWlvEf5unnQTE+xMsozB+V+BU0HHxQS0iX/2AvLFdCNHbCA+d1dH\nxzpK7PKL/Y810k0mXnGSbtVt2wKBgQC+Jn5tN/P3Xa+s3ntt2mGxLE3Hn4/v/u2K\nv9DE0GPZkiz+yGVxjUsEAGBQwDgG0D63BxQzr5vul2cNXHhk8t4YAyMjdroGJNOW\nibqQp+QssX5mYnagoylY1U4J1cLiLFq1eW7ahm/4T/DcWJXesBv18cJvsTxrVMxX\njMJ0fFX4jwKBgHy2A5AaxOCMa35WamJSzgAKurs/STAGTfdJ85Lf7pjFfCjcXUYD\nQXtithLqHzKyjfI5kzMDwm/GafR0Q++UqJ6xs87EOD8uFzPpXjnYPnS2BlKXBdTY\njK9OyYbKmvn2FBO50OKY2MkMG3GizknN/ip/OmNLT7UlYXA17EnJUUfFAoGAX6Xx\nVnMcz0NbCPPo1ntRRNPqVA3ZU3nCd1bBZx8D+v9ijs6y6ImQQHUH/daS2CqMQXjY\nGp+tKjkSZ1AqZ20bdqytUjt4m3qOzFx/ciBh0HGACXRiA6/PLpYtaRkTrL1u63Yn\n4thZHmjn2Y7d5GRlzDNOAO0AXWUMXMW7UujwPdUCgYEAinALVLY0A0ewcSWwoS0W\nxq5nWOqh7N/kOVF4AV793RaPqANZtrjeEb2r6CIdGN733Wjw+OgHO6RlwMmVYiwL\nAiZxSeaYDmnacuBi1epy9QzCrmsAqIcgbAERRkPvpfqTWxjfYBcmkBwSJld5dyyF\nGMOyi4T2IzawHeQzbnPa440=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-bigquery-workshop-day-2@dataengineerbootcamp-385813.iam.gserviceaccount.com",
+  "client_id": "117419074294286298460",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-bigquery-workshop-day-2%40dataengineerbootcamp-385813.iam.gserviceaccount.com"
+}

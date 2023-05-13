@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dataengineerbootcamp-385813",
+  "private_key_id": "d55b988e65abbed011eb54a9148bab14ea381436",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCe6hgqehubz7ip\nCaRUe2rmEhORA9ziW/+1t2VBQ/3KaEhfKInhlLl0UWB/7AfPofBEcBTsbNaRLKEg\nOVJEnzh3LyPe00PNIOZbPUYUyEAo0dnpdktaAjZnRacM9lOwiQJHNUvG8EZ0lUed\nWJyKMwAm8vKHFs5RN9J8wTnnghhCmADOcqk/DqMemfYhzS72yq8t+e48zDznYtFv\nyQUg7HFRQWJnUXBa2E1K8FVbRHPIlCca6EqYCNwUA1oa4ngcQ28+B/vabWKVON8N\ndjBTbCnKSqVT7pPYZ1vIJeojUZyZLLQn3kLt85V1a/aFpylH5TMnRZaY3i5pF36C\n7TvVi+/rAgMBAAECggEADfjC+ykVOFPBBoukeREIywWX1s4iI3y3NMDVFDHoJF2a\nz1L/HGg5DfMBqv2TijvQphO8ozTGgKkN2YlwpDvjeQcZ/kNQ2L4lwqvWd4lLqssY\nf6A468b6BYZoM4mMvh6tppkW+nyxlRpy23CpArWNM990V1A3/4gK55ENiD815tTW\n272+Yvutr859D6LJ8CFd1ru5dRqVUA1gxJuH3YEAeX5ySiwrOm0LK+jwlu+Ychik\n976dqWtPwV/DXHCp/YnF94D57SQ8D3XuWvBMev1ABlaD1c7m7XRpN5R/6diAhgUq\nTArbydteerfvhFG/jER10cIl3uw7IMN1qLXaRGnIUQKBgQDZjZiE3MSAvPhEHlHu\nsk6hnNUBfn9Ut1kMC4WtuSfL7outOw7EgAIW1aB2p9NmogwWstftO4UPTiESvsSS\n9rAqb0XVR5kqBdpi1+LxQwHPVaRauhZVD8PpLMGWjn/CBmEG+uZJ1oBoXVaMxphJ\nvMIYH/3OSwFB/NdJDE/5htEqHQKBgQC6/5qDm4Lig+xMLUBbatAz8v8QEnJ5tXjl\nYZWDnFVlkEDHt3sIr1+EKqqSYJ4hPwIE1nGwzCqIxCDNWUWvM3KXTM5Ze+V+rryB\nUwwHvLkgGB/XbTSJOx3z/BT/rxpvNa+sDkLjSiLsIozqqwJC4tbzTJdTrMJDjGQt\ndWRYsB2jpwKBgCMI1HkA/Hwm8mw13cfs2xDXqs3UyzifVi3EZUC2wpvqzH+XNSeb\n3bpDqNWy7S5oBj5ZisBfh2wRju3v3sQ0CeariLlyEE5eJu8oCRoFSnNTPWaG9TW5\nljkkxgAy7owWbuWq3g8iBgfIkDmXecrWJQOxkzP3jDpON3VCEFcEyQZZAoGBALPx\n7WVBy5Rf8I5paSnPQmULK4jyx3f5Oko5OmA4mzCtvLizBlEYOaj8ScGr+d7yO+Yd\n2a+Q+Ek9uncAtf7fWiDgRx1zDSd3zGwCV2xGnjqVHGb4bnq0CaHUbPySKrTji5Xc\n716645opsULMptNoaAIeLOzXLOVFfs0DzzlM2Gi3AoGAf/pw5W9/GHOAUtloG8qB\nMeFPE3lQ7nExGS04sOycF8H70TCZ3Smm1nsS9ymW2SxHMC37wJ90VU0ziyPOme8o\n0FdYDVQypnXkLVmmb4wo8IlqcpTRIz4qD7gpjNiD6ox5VSGs6w1+piSFFdYTfI52\nQizTMv1LWO6RWhTOYs7kel8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-workshop-day-3-gcs@dataengineerbootcamp-385813.iam.gserviceaccount.com",
+  "client_id": "112657239160953533650",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-workshop-day-3-gcs%40dataengineerbootcamp-385813.iam.gserviceaccount.com"
+}
